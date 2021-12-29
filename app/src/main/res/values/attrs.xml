@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SortTabView">
+        <attr name="mBackground" format="reference|color" />
+        <attr name="mTextSize" format="dimension" />
+        <attr name="mTextColor" format="integer" />
+        <attr name="mTextSelectColor" format="integer" />
+    </declare-styleable>
+</resources>
